@@ -1,2 +1,0 @@
-# pomegranate-cheesecake
-pomegranate cheesecake
